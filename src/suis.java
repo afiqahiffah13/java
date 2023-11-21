@@ -8,3 +8,5 @@ public class suis {
         System.out.println("The largest numbers is: "+largestNumber);
     }
 }
+
+//"the largest number is" = function

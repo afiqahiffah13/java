@@ -1,19 +1,10 @@
-import java.util.Scanner;
-
-public class operator {
-    public static void main(String[] args) {
-        
-        Scanner tom = new Scanner(System.in);
-        int lelaki,perempuan,kawan;
-        lelaki = 17;
-        perempuan = 9;
-        kawan = lelaki % perempuan;
-    
-
-        System.out.println(kawan);
-
+class operator {
+    public static void main (String[] args) {
+        int x,y;
+        x = 20;
+        y = (x == 1) ? 61:90;
+        System.out.println ("Value of y is: " + y);
+        y = (x == 20) ? 61:90;
+        System.out.println ("Value of y is: " + y);
     }
-
-
-
 }
