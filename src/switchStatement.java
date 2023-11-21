@@ -5,10 +5,10 @@ public class switchStatement {
 
     switch(umur) {
         case 1:
-           System.out.println("adik boleh meniarap");
+           System.out.println("adik boleh meniarap"); //opt 1
            break;
         case 2:
-           System.out.println("adik boleh berdiri");
+           System.out.println("adik boleh berdiri"); //
            break;
         case 3:
            System.out.println("adik boleh berjalan");
