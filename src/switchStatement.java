@@ -1,7 +1,7 @@
 public class switchStatement {
   public static void main(String[] args) {
     
-    int umur = 2;
+    int umur = 5;
 
     switch(umur) {
         case 1:
@@ -12,6 +12,8 @@ public class switchStatement {
            break;
         case 3:
            System.out.println("adik boleh berjalan");
+        default:
+            System.out.println("adik tak lahir pun lagi");
            
     }
   }  
