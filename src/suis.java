@@ -1,5 +1,5 @@
-public class suis {
-    public static void main (String[] args){
+public class suis { //this is class
+    public static void main (String[] args){ //this public main
         int x=69;
         int y=89;
         int z=79;

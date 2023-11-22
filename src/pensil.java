@@ -5,7 +5,7 @@ public class pensil{
     
 
     for (int alin = 0; alin<kakak.length; alin++){
-        System.out.println(alin + "\t" + kakak[alin]);
+        System.out.println(alin + "\t" +  );
   
    }
 
